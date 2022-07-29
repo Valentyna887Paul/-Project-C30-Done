@@ -1,2 +1,1 @@
-# -Project-C30-Done
-Same as project 29 however aesthetics are more refined having a nice mountain scenery and an actual wooden bridge. However, no zombie yet...
+# PRO-V2-C30-Modelo
